@@ -35,9 +35,13 @@ Ground school is the classroom-style education involved with flight lessons.
 You can start ground school whenever you would like, but the knowledge you gain during Ground School will be immediately applicable to your first flight lesson, so getting a jump start wuldn't be a bad thing!
 
 There is a lot of information out there about which method is best - in-classroom or online.
-Your CFI will probably have a preference, but the Online courses are extremely popular - both for the competitive price and accessibility.  In my situation, I was advised by my CFI and other friends to investigate the online options.  Look at the **Online Ground School** section for more information.
+Your CFI will probably have a preference, but the Online courses are extremely popular - both for the competitive price and accessibility.  In my situation, I was advised by my CFI (and others) to investigate the online options.  
+*Look at the **Online Ground School** section below for more information.*
 
-Which 
+Whichever method you choose, you just need to get started. Generally, the earlier you start the better off you'll be.
+If you start really early, you might require a bit of review later on - but that's okay. You want a good, solid understnading of what is in these courses.
+If you went the Online Ground School route, most of the providers let you access the content as often as you want, so you can retake the practice tests as often as you would like - which will help your confidence level.
+After you complete ground school and are ready to move on to the next step you'll need to take an exam - probably at a nearby testing center. When you pass the exam (which you will because you studied the material!), the results are valid for 24 calendar months, so you'll want to get your flight school completed before that date (or delay taking the test).  Worst case, you'll have to retake the exam.
 
 ### Online Ground School
 In the world of Online Flight Training, there are two or three major players:
@@ -48,6 +52,7 @@ My CFI recommended Sporty's, and highly recommended adding on the Instrument Rat
 [This package](https://www.sportys.com/learn-to-fly-course-private-pilot-test-prep-online-app-and-tv.html) is slightly cheaper ($249.00), but does not include the IR Course - so if you're planning to earn your Instrument Rating, you would save money by selecting the compbination package.
 
 ## Before your first flight lesson
+Check with your CFI to see if they have any specific prerequisites before your first Flight Lesson - but in my case, this list covered everything:
 1. Set up a MedXpress Account
 	- Navigate to https://medxpress.faa.gov/medxpress
 	- Request an Account
@@ -61,7 +66,13 @@ My CFI recommended Sporty's, and highly recommended adding on the Instrument Rat
    - You will be issued an FAA Tracking Number (FTN)
      - Keep track of this. This identifies you to the FAA, and it will be assigned for the entirety of your aviation career
      - You will need to provide this to your CFI so that they can complete your application
-3. Schedule a 3rd Class Medical Examination
+3. Schedule and complete a 3rd Class Medical Examination
 	- Navigate to https://designee.faa.gov/#/designeeLocator
 	- Select an Aviation Medical Examiner (AME) from the list offered in your area
 	- Schedule a **3rd Class Medical Examination**, providing the appointment confirmation
+
+## Your first flight lesson
+Check with your CFI to see what you need to bring with you to your first lesson.  I was required to bring the following:
+- Passport or Birth Certificate
+- State-issued ID (I used my Driver's License)
+- Medical Examination Results
