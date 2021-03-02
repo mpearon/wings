@@ -72,6 +72,7 @@ Check with your CFI to see if they have any specific prerequisites before your f
 	- Schedule a **3rd Class Medical Examination**, providing the appointment confirmation
 
 ## Your first flight lesson
+### What to bring
 Check with your CFI to see what you need to bring with you to your first lesson.  I was required to bring the following:
 - Passport or Birth Certificate
 - State-issued ID (I used my Driver's License)
