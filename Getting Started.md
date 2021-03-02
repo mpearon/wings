@@ -17,7 +17,7 @@ You need to decide what you want to accomplish, and how quickly you want to acco
 		- Your Sport or Private Certification will cover this
 	- I want to be able to deal with poor weather or fly at night
 		- This will require a Private Pilot Certification *and* and an Instrument Rating (IR)
-My instructor **higly** recommended earning an Instrument Rating - even if I was fairly certain I would only fly on perfect days. Freak weather happens (especially here in the Midwest), so he wanted me to be able to deal with it - and I completely agreed with him.
+My instructor **highly** recommended earning an Instrument Rating - even if I was fairly certain I would only fly on perfect days. Freak weather happens (especially here in the Midwest), so he wanted me to be able to deal with it - and I completely agreed with him.
 
 ## Choose your Instructor
 Your choice of a Certified Flight Instructor (CFI) is important and you may need to "interview" more than one before you find the right fit.
