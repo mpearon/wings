@@ -32,14 +32,14 @@ I found that most of the CFIs I spoke to answered these questions before I could
 
 ## Ground School
 Ground school is the classroom-style education involved with flight lessons.
-You can start ground school whenever you would like, but the knowledge you gain during Ground School will be immediately applicable to your first flight lesson, so getting a jump start wuldn't be a bad thing!
+You can start ground school whenever you would like, but the knowledge you gain during Ground School will be immediately applicable to your first flight lesson, so getting a jump start wouldn't be a bad thing!
 
 There is a lot of information out there about which method is best - in-classroom or online.
 Your CFI will probably have a preference, but the Online courses are extremely popular - both for the competitive price and accessibility.  In my situation, I was advised by my CFI (and others) to investigate the online options.  
 *Look at the **Online Ground School** section below for more information.*
 
 Whichever method you choose, you just need to get started. Generally, the earlier you start the better off you'll be.
-If you start really early, you might require a bit of review later on - but that's okay. You want a good, solid understnading of what is in these courses.
+If you start really early, you might require a bit of review later on - but that's okay. You want a good, solid understanding of what is in these courses.
 If you went the Online Ground School route, most of the providers let you access the content as often as you want, so you can retake the practice tests as often as you would like - which will help your confidence level.
 After you complete ground school and are ready to move on to the next step you'll need to take an exam - probably at a nearby testing center. When you pass the exam (which you will because you studied the material!), the results are valid for 24 calendar months, so you'll want to get your flight school completed before that date (or delay taking the test).  Worst case, you'll have to retake the exam.
 
@@ -49,7 +49,7 @@ In the world of Online Flight Training, there are two or three major players:
 - [King Schools](https://kingschools.com)
 - [Gleim Aviation](https://gleimaviation.com)
 My CFI recommended Sporty's, and highly recommended adding on the Instrument Rating (IR) course, so I chose [this package](https://www.sportys.com/private-and-instrument-rating-course-combo.html) package ($399.00).
-[This package](https://www.sportys.com/learn-to-fly-course-private-pilot-test-prep-online-app-and-tv.html) is slightly cheaper ($249.00), but does not include the IR Course - so if you're planning to earn your Instrument Rating, you would save money by selecting the compbination package.
+[This package](https://www.sportys.com/learn-to-fly-course-private-pilot-test-prep-online-app-and-tv.html) is slightly cheaper ($249.00), but does not include the IR Course - so if you're planning to earn your Instrument Rating, you would save money by selecting the combination package.
 
 ## Before your first flight lesson
 Check with your CFI to see if they have any specific prerequisites before your first Flight Lesson - but in my case, this list covered everything:
@@ -70,6 +70,18 @@ Check with your CFI to see if they have any specific prerequisites before your f
 	- Navigate to https://designee.faa.gov/#/designeeLocator
 	- Select an Aviation Medical Examiner (AME) from the list offered in your area
 	- Schedule a **3rd Class Medical Examination**, providing the appointment confirmation
+	- The Examination
+		- For most people, the 3rd Class Medical is a pretty easy ride and is nothing to be concerned about. In my case, I'm a relatively healthy male in my early 30s with no pre-existing conditions - other than allergies.
+		- Here is what we did during my medical exam:
+			- Urine Sample
+			- Height
+			- Weight
+			- Eye Examination
+			- Blood Pressure
+			- Ear Examination
+			- Health-related Questions
+		- ...and that's about it! If you have pre-existing conditions, it might be a bit trickier - but most things can be dealt with.<br />
+		*Note: If you want to read a long, confusing document about what your AME is actually looking for, take a look at [this](https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/aam/ame/guide/media/guide.pdf). Don't worry if you don't understand it - that's what they pay the doctors for!*
 
 ## Your first flight lesson
 ### What to bring
@@ -77,3 +89,5 @@ Check with your CFI to see what you need to bring with you to your first lesson.
 - Passport or Birth Certificate
 - State-issued ID (I used my Driver's License)
 - Medical Examination Results
+- Pilot's Logbook
+	- If you don't have one, your local FBO (Fixed-base Operator) will likely have some available for purchase. If you want to order online, something like [this](https://www.sportys.com/pilot-s-flight-logbook-and-record.html) will do.
