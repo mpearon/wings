@@ -30,4 +30,4 @@ The purpose of the simulated emergency engine failure is to become proficient wi
 	- Lose altitude as necessary (better high than low)
 	- Use flaps as necessary
 	- Open the door before touchdown
-	- Shutoff the master switch just before touchdown
+	- Shut off the master switch just before touchdown
