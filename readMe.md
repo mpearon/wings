@@ -7,6 +7,8 @@ My hope is that something I write here will either inspire someone else to get s
 
 ## Getting Started
 - [How to get started](./gettingStarted.md)
+## Expenses
+- [Expense Breakdown](./expenses/expenseBreakdown.md)
 ## The Lessons
 - [X] [Lesson 1](./lessonRecaps/2021-04-05.md): Onboarding, Procedures, Preflight Checklist
 - [X] [<del>Lesson 2</del>](./lessonRecaps/2021-04-07.md): Cancelled due to poor weather
