@@ -17,3 +17,4 @@ My hope is that something I write here will either inspire someone else to get s
 - [Briefings](./refernce/breifings/): Standard flight briefings, provided by my CFI and [Flight School](http://jcfs.net/)
 - [Piper Warrior Reference](./reference/piperWarrior/): Reference material specific to the Piper Warrior PA-28-161 that will be used in my training, provided by my CFI and [Flight School](http://jcfs.net/)
 - [CFI Recommended Links](./reference/recommendedLinks-JCFS.md): A list of links recommended by my CFI and [Flight School](http://jcfs.net/)
+- [Personal Recommendations](./references/recommendedLinks-Personal.md): Information and links that I've found helpful
