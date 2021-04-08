@@ -60,14 +60,14 @@ Check with your CFI to see if they have any specific prerequisites before your f
 	- Request an Account
 	- Fill out an application for a **Airman Medical and Student Pilot** medical examination
 	- At the end you will be issued an appointment confirmation number
-      > <font color="salmon">**Keep track of this number**</font><br />
+      > <font color="salmon">🔴 **Keep track of this number**</font><br />
 	  You will need it for your Medical Examination
 2. Set up an IACRA Account
    - Navigate to https://iacra.faa.gov/IACRA/default.aspx
    - Start a new **Student Pilot** application
    - At the end of this application, it will suggest that you have you CFI review before submitting
    - You will be issued an FAA Tracking Number (FTN)
-     ><font color="salmon">**Keep track of this ID**</font><br />
+     ><font color="salmon">🔴 **Keep track of this ID**</font><br />
 	 This identifies you to the FAA, and it will be assigned for the entirety of your aviation career. You will also need to provide this to your CFI so that they can complete your Student Pilot application.
 3. Schedule and complete a 3rd Class Medical Examination
 	- Navigate to https://designee.faa.gov/#/designeeLocator
