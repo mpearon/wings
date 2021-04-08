@@ -12,9 +12,9 @@ My hope is that something I write here will either inspire someone else to get s
 ## The Lessons
 - [X] [Lesson 1](./lessonRecaps/2021-04-05.md): Onboarding, Procedures, Preflight Checklist
 - [X] [<del>Lesson 2</del>](./lessonRecaps/2021-04-07.md): Cancelled due to poor weather
-- [ ] [Lesson 2](./lessonRecaps/2021-04-09.md)
-- [ ] [Lesson 3](./lessonRecaps/2021-04-13.md)
-- [ ] [Lesson 4](./lessonRecaps/2021-04-14.md)
+- [ ] [Lesson 2](./lessonRecaps/2021-04-09.md): Scheduled for 2021-04-09 08:00
+- [ ] [Lesson 3](./lessonRecaps/2021-04-13.md): Scheduled for 2021-04-20 18:00
+- [ ] [Lesson 4](./lessonRecaps/2021-04-14.md): Scheduled for 2021-04-21 18:00
 ## Reference Materials
 - [Briefings](./refernce/breifings/): Standard flight briefings, provided by my CFI and [Flight School](http://jcfs.net/)
 - [Piper Warrior Reference](./reference/piperWarrior/): Reference material specific to the Piper Warrior PA-28-161 that will be used in my training, provided by my CFI and [Flight School](http://jcfs.net/)
