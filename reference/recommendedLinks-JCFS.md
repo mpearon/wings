@@ -1,6 +1,6 @@
 # Recommended Links
 ## Downloadable Reference Books
-- Federal Aviation Regulations (FARs), CFR 49, Title 14, Chapter 1, Sub-part D and F
+- Federal Aviation Regulations (FARs), CFR 49, Title 14, Chapter I, Sub-part D and F
 	- [Part 61](https://www.govinfo.gov/app/collection/cfr/2020/title14/chapterI/subchapterD/part61/)
 	- [Part 91](https://www.govinfo.gov/app/collection/cfr/2020/title14/chapterI/subchapterF/part91/)
 - [Aeronautical Information Manual (AIM)](https://www.faa.gov/air_traffic/publications/media/aim_basic_w_chg_1_2_3_dtd_12-31-20.pdf)
