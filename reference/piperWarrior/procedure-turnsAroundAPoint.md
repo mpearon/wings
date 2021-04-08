@@ -4,7 +4,7 @@ Turns Around a Point is a ground reference maneuver where you keep a constant ra
 
 ## Procedure
 - RPM so that your airspeed is below V<sub>A</sub>: 111kt
-- Enter on the Downwind at ~600' - 1000ft AGL
+- Enter on the Downwind at ~600' - 1000' AGL
 - Start a turn to the left when abeam your point
 - Maintain a constant radius based off of winds
 	- Use a steeper turn with a tailwind
