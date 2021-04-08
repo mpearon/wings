@@ -2,7 +2,7 @@
 I'll do my best to keep track of expenses here. This will be a living document.
 |Total Estimated	|Total Actual	|
 |-------------------|---------------|
-|$14072.74			|$537.00		|
+|$14084.70			|$537.00		|
 
 ## Estimated Flight School Expenses - [Jefferson City Flying Service](http://jcfs.net)
 With this section, there will be a few differences in estimated expense and actual expense, depending on differences in approaches.
@@ -28,14 +28,15 @@ This section will list recurring fees for organization dues, premiums, etc.,...
 
 ## Other Expenses
 This section will contain items that I think I will need throughout my aviation career.
-|Item						|Price		|Notes																				|
-|:--------------------------|----------:|:----------------------------------------------------------------------------------|
-|iPad Mini Knee board		|$42.95		|[myPilotStore](https://mypilotstore.com/MyPilotStore/sep/13591)					|
-|iPad Mini Wifi+Cellular	|$459.00	|[Options](https://foreflight.com/support/buying-guide/)							|
-|David Clark H10-13S Headset|$325.00	|[myPilotStore](https://mypilotstore.com/MyPilotStore/sep/1028)						|
-|ASA AirClassics Flight Bag	|$69.95		|[myPilotStore](https://mypilotstore.com/MyPilotStore/sep/2531)						|
-|GoPro Audio Recorder		|$99.95		|[myPilotStore](https://mypilotstore.com/MyPilotStore/sep/11806)					|
-|E6B Flight Computer		|$69.95		|[Sporty's](https://www.sportys.com/sporty-s-electronic-e6b-flight-computer.html)	|
-|Flight Plotter				|$16.95		|[Sporty's](https://www.sportys.com/ultimate-rotating-plotter-13-25.html)			|
-|ADS-B Device				|$299.00	|[Sporty's](https://www.sportys.com/foreflight-sentry-mini-ads-b-receiver.html)		|
-|**Total**					|$1382.75	|																					|
+|Item						|Price		|Actual Expense	|Notes																				|
+|:--------------------------|----------:|---------------|:----------------------------------------------------------------------------------|
+|iPad Mini Knee board		|$42.95		|				|[myPilotStore](https://mypilotstore.com/MyPilotStore/sep/13591)					|
+|iPad Mini Wifi+Cellular	|$459.00	|				|[Options](https://foreflight.com/support/buying-guide/)							|
+|David Clark H10-13S Headset|$325.00	|				|[myPilotStore](https://mypilotstore.com/MyPilotStore/sep/1028)						|
+|ASA AirClassics Flight Bag	|$69.95		|				|[myPilotStore](https://mypilotstore.com/MyPilotStore/sep/2531)						|
+|GoPro Audio Recorder		|$99.95		|				|[myPilotStore](https://mypilotstore.com/MyPilotStore/sep/11806)					|
+|E6B Flight Computer		|$69.95		|				|[Sporty's](https://www.sportys.com/sporty-s-electronic-e6b-flight-computer.html)	|
+|Flight Plotter				|$16.95		|				|[Sporty's](https://www.sportys.com/ultimate-rotating-plotter-13-25.html)			|
+|ADS-B Device				|$299.00	|				|[Sporty's](https://www.sportys.com/foreflight-sentry-mini-ads-b-receiver.html)		|
+|Pilot's Logbook			|$11.95		|$0.00			|[Sporty's](https://www.sportys.com/pilot-s-flight-logbook-and-record.html)			|
+|**Total**					|$1394.70	|				|																					|
