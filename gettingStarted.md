@@ -48,7 +48,8 @@ In the world of Online Flight Training, there are two or three major players:
 - [Sporty's Pilot Shop](https://sportys.com)
 - [King Schools](https://kingschools.com)
 - [Gleim Aviation](https://gleimaviation.com)
-My CFI recommended Sporty's, and highly recommended adding on the Instrument Rating (IR) course, so I chose [this package](https://www.sportys.com/private-and-instrument-rating-course-combo.html) ($399.00).
+<br />
+My CFI recommended Sporty's, and highly recommended adding on the Instrument Rating (IR) course, so I chose [this package](https://www.sportys.com/private-and-instrument-rating-course-combo.html) ($399.00).<br />
 [This package](https://www.sportys.com/learn-to-fly-course-private-pilot-test-prep-online-app-and-tv.html) is slightly cheaper ($249.00), but does not include the IR Course - so if you're planning to earn your Instrument Rating, you would save money by selecting the combination package.
 
 ## Before your first flight lesson
@@ -79,9 +80,11 @@ Check with your CFI to see if they have any specific prerequisites before your f
 			- Eye Examination
 			- Blood Pressure
 			- Ear Examination
-			- Health-related Questions
-		- ...and that's about it! If you have pre-existing conditions, it might be a bit trickier - but most things can be dealt with.<br />
-		*Note: If you want to read a long, confusing document about what your AME is actually looking for, take a look at [this](https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/aam/ame/guide/media/guide.pdf). Don't worry if you don't understand it - that's what they pay the doctors for!*
+			- Health-related Questions<br />
+			...and that's about it! If you have pre-existing conditions, it might be a bit trickier - but most things can be dealt with.<br />
+			<br />
+		**Note:** *If you want to read a long, confusing document about what your AME is actually looking for, take a look at [this](https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/aam/ame/guide/media/guide.pdf).<br />
+		Don't worry if you don't understand it - that's what they pay the doctors for!*
 
 ## Your first flight lesson
 ### What to bring
