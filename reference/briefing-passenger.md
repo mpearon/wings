@@ -1,0 +1,17 @@
+# Passenger Briefing
+- **S**
+	- Smoking: Not allowed
+	- Sterile Cockpit: Quiet time
+	- Seat Belts and Safety Harnesses: How to use them
+- **A**
+	- Airsickness: Notify and Sickness Bags
+	- Air Vents: Location and Use
+- **F**
+	- Fire Extinguisher: Location and Use
+- **E**
+	- Exits: How and When to use
+- **T**
+	- Traffic: Notify pilot
+	- Talking: Quiet during radio calls
+- **Y**
+	- Your Questions: Do you have any?
