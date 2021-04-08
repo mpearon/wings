@@ -19,7 +19,7 @@ You need to decide what you want to accomplish, and how quickly you want to acco
 	- I want to be able to deal with poor weather
 		- This will require a Private Pilot Certification *and* an Instrument Rating (IR)
 
-> **Note:** *My instructor **highly** recommended earning an Instrument Rating - even if I was fairly certain I would only fly on perfect days. Freak weather happens (especially here in the Midwest), so he wanted me to be able to deal with it - and I completely agreed with him.*
+> **Note:** *My CFI **highly** recommended earning an Instrument Rating - even if I was fairly certain I would only fly on perfect days. Freak weather happens (especially here in the Midwest), so he wanted me to be able to deal with it - and I completely agreed with him.*
 
 ## Choose your Instructor
 Your choice of a Certified Flight Instructor (CFI) is important and you may need to "interview" more than one before you find the right fit.
@@ -51,7 +51,7 @@ In the world of Online Flight Training, there are two or three major players:
 - [King Schools](https://kingschools.com)
 - [Gleim Aviation](https://gleimaviation.com)
 
-> **Note:** *My CFI recommended Sporty's, and highly recommended adding on the Instrument Rating (IR) course, so I chose [this package](https://www.sportys.com/private-and-instrument-rating-course-combo.html) ($399.00). [This package](https://www.sportys.com/learn-to-fly-course-private-pilot-test-prep-online-app-and-tv.html) is slightly cheaper ($249.00), but does not include the IR Course - so if you're planning to earn your Instrument Rating, you would save money by selecting the combination package.*
+> **Note:** *My CFI recommended Sporty's, and highly recommended adding on the Instrument Rating (IR) course, so I chose [this package](https://www.sportys.com/private-and-instrument-rating-course-combo.html) ($399.00). [This other package](https://www.sportys.com/learn-to-fly-course-private-pilot-test-prep-online-app-and-tv.html) is slightly cheaper ($249.00), but does not include the IR Course - so if you're planning to earn your Instrument Rating, you would save money by selecting the combination package.*
 
 ## Before your first flight lesson
 Check with your CFI to see if they have any specific prerequisites before your first Flight Lesson - but in my case, this list covered everything:
@@ -60,14 +60,14 @@ Check with your CFI to see if they have any specific prerequisites before your f
 	- Request an Account
 	- Fill out an application for a **Airman Medical and Student Pilot** medical examination
 	- At the end you will be issued an appointment confirmation number
-      > **Keep track of this number**<br />
+      > <font color="salmon">**Keep track of this number**</font><br />
 	  You will need it for your Medical Examination
 2. Set up an IACRA Account
    - Navigate to https://iacra.faa.gov/IACRA/default.aspx
    - Start a new **Student Pilot** application
    - At the end of this application, it will suggest that you have you CFI review before submitting
    - You will be issued an FAA Tracking Number (FTN)
-     > **Keep track of this ID**<br />
+     ><font color="salmon">**Keep track of this ID**</font><br />
 	 This identifies you to the FAA, and it will be assigned for the entirety of your aviation career. You will also need to provide this to your CFI so that they can complete your Student Pilot application.
 3. Schedule and complete a 3rd Class Medical Examination
 	- Navigate to https://designee.faa.gov/#/designeeLocator
