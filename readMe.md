@@ -9,7 +9,7 @@ My hope is that something I write here will either inspire someone else to get s
 - [How to get started](./gettingStarted.md)
 ## The Lessons
 - [X] [Lesson 1](./lessonRecaps/2021-04-05.md): Onboarding, Procedures, Preflight Checklist
-- [X] [<del>Lesson 2</del>](./lessonRecaps/2021-04-07.md): Canecelled due to poor weather
+- [X] [<del>Lesson 2</del>](./lessonRecaps/2021-04-07.md): Cancelled due to poor weather
 - [ ] [Lesson 2](./lessonRecaps/2021-04-09.md)
 - [ ] [Lesson 3](./lessonRecaps/2021-04-13.md)
 - [ ] [Lesson 4](./lessonRecaps/2021-04-14.md)
