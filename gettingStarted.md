@@ -9,13 +9,13 @@ You need to decide what you want to accomplish, and how quickly you want to acco
 	- I want to fly Single-engine Land Aircraft
 		- This will only require a Private Pilot Certification
 	- I want to fly larger, Multi-engine Land Aircraft
-		- This will require a Private Pilot Certification *and* and Multi-engine Rating (ME)
+		- This will require a Private Pilot Certification *and* a Multi-engine Rating (ME)
 	- I want to fly Single-engine Sea Aircraft
-		- This will require a Private Pilot Certification *and* and Sea Aircraft Rating
+		- This will require a Private Pilot Certification *and* a Sea Aircraft Rating
 - When do you want to fly?
 	- I'll only fly on perfect, sunny days
 		- Your Sport or Private Certification will cover this
-	- I want to be able to deal with poor weather or fly at night
+	- I want to be able to deal with poor weather
 		- This will require a Private Pilot Certification *and* and an Instrument Rating (IR)
 My instructor **highly** recommended earning an Instrument Rating - even if I was fairly certain I would only fly on perfect days. Freak weather happens (especially here in the Midwest), so he wanted me to be able to deal with it - and I completely agreed with him.
 
@@ -48,7 +48,7 @@ In the world of Online Flight Training, there are two or three major players:
 - [Sporty's Pilot Shop](https://sportys.com)
 - [King Schools](https://kingschools.com)
 - [Gleim Aviation](https://gleimaviation.com)
-My CFI recommended Sporty's, and highly recommended adding on the Instrument Rating (IR) course, so I chose [this package](https://www.sportys.com/private-and-instrument-rating-course-combo.html) package ($399.00).
+My CFI recommended Sporty's, and highly recommended adding on the Instrument Rating (IR) course, so I chose [this package](https://www.sportys.com/private-and-instrument-rating-course-combo.html) ($399.00).
 [This package](https://www.sportys.com/learn-to-fly-course-private-pilot-test-prep-online-app-and-tv.html) is slightly cheaper ($249.00), but does not include the IR Course - so if you're planning to earn your Instrument Rating, you would save money by selecting the combination package.
 
 ## Before your first flight lesson
