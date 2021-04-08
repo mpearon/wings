@@ -1,7 +1,8 @@
 # Getting Started
 ## Set your goals
 I know, I know - this step sounds a little "motivational speaker-y", but it is actually important.
-You need to decide what you want to accomplish, and how quickly you want to accomplish it, because that will help inform your decisions later on.<br />
+You need to decide what you want to accomplish, and how quickly you want to accomplish it, because that will help inform your decisions later on.
+
 **You know that you want to fly - that's a given.**  Let's try to answer some more detailed questions:
 - What do you want to fly?
 	- I want to fly Light Sport Aircraft (LSA)
@@ -16,8 +17,9 @@ You need to decide what you want to accomplish, and how quickly you want to acco
 	- I'll only fly on perfect, sunny days
 		- Your Sport or Private Certification will cover this
 	- I want to be able to deal with poor weather
-		- This will require a Private Pilot Certification *and* and an Instrument Rating (IR)
-My instructor **highly** recommended earning an Instrument Rating - even if I was fairly certain I would only fly on perfect days. Freak weather happens (especially here in the Midwest), so he wanted me to be able to deal with it - and I completely agreed with him.
+		- This will require a Private Pilot Certification *and* an Instrument Rating (IR)
+
+> **Note**: *My instructor **highly** recommended earning an Instrument Rating - even if I was fairly certain I would only fly on perfect days. Freak weather happens (especially here in the Midwest), so he wanted me to be able to deal with it - and I completely agreed with him.*
 
 ## Choose your Instructor
 Your choice of a Certified Flight Instructor (CFI) is important and you may need to "interview" more than one before you find the right fit.
@@ -48,7 +50,7 @@ In the world of Online Flight Training, there are two or three major players:
 - [Sporty's Pilot Shop](https://sportys.com)
 - [King Schools](https://kingschools.com)
 - [Gleim Aviation](https://gleimaviation.com)
-<br />
+
 My CFI recommended Sporty's, and highly recommended adding on the Instrument Rating (IR) course, so I chose [this package](https://www.sportys.com/private-and-instrument-rating-course-combo.html) ($399.00).<br />
 [This package](https://www.sportys.com/learn-to-fly-course-private-pilot-test-prep-online-app-and-tv.html) is slightly cheaper ($249.00), but does not include the IR Course - so if you're planning to earn your Instrument Rating, you would save money by selecting the combination package.
 
@@ -80,11 +82,12 @@ Check with your CFI to see if they have any specific prerequisites before your f
 			- Eye Examination
 			- Blood Pressure
 			- Ear Examination
-			- Health-related Questions<br />
-			...and that's about it! If you have pre-existing conditions, it might be a bit trickier - but most things can be dealt with.<br />
-			<br />
-		**Note:** *If you want to read a long, confusing document about what your AME is actually looking for, take a look at [this](https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/aam/ame/guide/media/guide.pdf).<br />
-		Don't worry if you don't understand it - that's what they pay the doctors for!*
+			- Health-related Questions
+
+			...and that's about it! If you have pre-existing conditions, it might be a bit trickier - but most things can be dealt with.
+
+	> **Note:** *If you want to read a long, confusing document about what your AME is actually looking for, take a look at [this](https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/aam/ame/guide/media/guide.pdf).<br />
+	Don't worry if you don't understand it - that's what they pay the doctors for!*
 
 ## Your first flight lesson
 ### What to bring
