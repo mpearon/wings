@@ -1,7 +1,7 @@
 # Getting Started
 ## Set your goals
 I know, I know - this step sounds a little "motivational speaker-y", but it is actually important.
-You need to decide what you want to accomplish, and how quickly you want to accomplish it, because that will help inform your decisions later on.
+You need to decide what you want to accomplish, and how quickly you want to accomplish it, because that will help inform your decisions later on.<br />
 **You know that you want to fly - that's a given.**  Let's try to answer some more detailed questions:
 - What do you want to fly?
 	- I want to fly Light Sport Aircraft (LSA)
