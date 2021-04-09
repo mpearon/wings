@@ -1,0 +1,8 @@
+{
+	"extensions": [
+		"aaron-bond.better-comments",
+		"softwaredotcom.swdc-vscode",
+		"streetsidesoftware.code-spell-checker",
+		"yzhang.markdown-all-in-one"
+	],
+}
