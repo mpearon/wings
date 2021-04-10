@@ -2,21 +2,21 @@
 I'll do my best to keep track of expenses here. This will be a living document.
 |Total Estimated	|Total Actual	|
 |-------------------|---------------|
-|$14084.70			|$636.00		|
+|$14084.70			|$1039.40		|
 
 ## Estimated Flight School Expenses - [Jefferson City Flying Service](http://jcfs.net)
 With this section, there will be a few differences in estimated expense and actual expense, depending on differences in approaches.
 |Estimated	 				|           |           |              	|Actual	    |           |              	|						|
 |:--------------------------|----------:|----------:|--------------:|----------:|----------:|--------------:|-----------------------|
 |**Item**  					|**Price** 	|**Units** 	|**Extended** 	|**Price**	|**Units**	| **Extended**	|**Notes**				|
-|55hrs Piper PA-28 Warrior	|$138.00	|55			|$7590.00		|$138.00	|			|				|						|
-|35hrs Flight Instruction	|$56.00		|35			|$1960.00		|$56.00		|			|				|						|
-|30hrs Ground Instruction	|$56.00		|30			|$1680.00		|$56.00		|			|				|Replaced with Sporty's	|
+|55hrs Piper PA-28 Warrior	|$138.00	|55			|$7590.00		|$138.00	|1.3		|$179.40		|						|
+|35hrs Flight Instruction	|$56.00		|35			|$1960.00		|$56.00		|2			|$112.00		|						|
+|30hrs Ground Instruction	|$56.00		|30			|$1680.00		|$56.00		|2			|$112.00		|Replaced with Sporty's	|
 |Cessna Private Pilot Kit	|$384.00	|1 			|$384.00		|$399.00	|1			|$399.00		|Replaced with Sporty's |
 |Written Test Fee			|$150.00	|1			|$150.00		|$150.00	|			|				|						|
 |Medical Examination		|$170.00	|1			|$170.00		|$138.00	|1			|$138.00		|						|
 |Final Flight Test Fee		|$600.00	|1			|$600.00		|$600.00	|			|				|						|
-|**Total**					|			|			|$12534.00		|			|			|$537.00		|						|
+|**Total**					|			|			|$12534.00		|			|			|$940.40		|						|
 
 ## Recurring Fees
 This section will list recurring fees for organization dues, premiums, etc.,...
