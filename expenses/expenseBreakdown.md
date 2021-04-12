@@ -2,7 +2,7 @@
 I'll do my best to keep track of expenses here. This will be a living document.
 |Total Estimated	|Total Actual	|
 |-------------------|---------------|
-|$13959.99			|$1039.40		|
+|$14253.69			|$1039.40		|
 
 ## Estimated Flight School Expenses - [Jefferson City Flying Service](http://jcfs.net)
 With this section, there will be a few differences in estimated expense and actual expense, depending on differences in approaches.
@@ -31,12 +31,13 @@ This section will contain items that I think I will need throughout my aviation 
 |Item						|Price		|Actual Expense	|Notes																				|
 |:--------------------------|----------:|---------------|:----------------------------------------------------------------------------------|
 |iPad Mini Knee board		|$42.95		|				|[myPilotStore](https://mypilotstore.com/MyPilotStore/sep/13591)					|
-|iPad Mini Wifi+Cellular	|$459.00	|				|[Options](https://foreflight.com/support/buying-guide/)							|
+|iPad Mini (64GB) Wifi+LTE	|$529.00	|				|[Options](https://foreflight.com/support/buying-guide/)							|
+|Apple Pencil (1st Gen)		|$99.00		|				|[Apple](https://www.apple.com/apple-pencil/)
 |David Clark H10-13S Headset|$325.00	|				|[myPilotStore](https://mypilotstore.com/MyPilotStore/sep/1028)						|
 |ASA AirClassics Flight Bag	|$69.95		|				|[myPilotStore](https://mypilotstore.com/MyPilotStore/sep/2531)						|
 |GoPro Audio Recorder		|$99.95		|				|[myPilotStore](https://mypilotstore.com/MyPilotStore/sep/11806)					|
 |E6B Flight Computer		|$69.95		|				|[Sporty's](https://www.sportys.com/sporty-s-electronic-e6b-flight-computer.html)	|
 |Flight Plotter				|$16.95		|				|[Sporty's](https://www.sportys.com/ultimate-rotating-plotter-13-25.html)			|
-|pingUSB ADS-B Device		|$175.00	|				|[uAvionix](https://uavionix.com/products/pingusb/)									|
+|Sentry Mini ADS-B			|$299.00	|				|[Sporty's](https://www.sportys.com/foreflight-sentry-mini-ads-b-receiver.html)		|
 |Pilot's Logbook			|$11.95		|$0.00			|[Sporty's](https://www.sportys.com/pilot-s-flight-logbook-and-record.html)			|
-|**Total**					|$1270.70	|				|																					|
+|**Total**					|$1563.70	|				|																					|
