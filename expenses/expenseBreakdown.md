@@ -2,7 +2,7 @@
 I'll do my best to keep track of expenses here. This will be a living document.
 |Total Estimated	|Total Actual	|
 |-------------------|---------------|
-|$14253.69			|$1039.40		|
+|$14253.69			|$1095.40		|
 
 ## Estimated Flight School Expenses - [Jefferson City Flying Service](http://jcfs.net)
 With this section, there will be a few differences in estimated expense and actual expense, depending on differences in approaches.
@@ -22,9 +22,9 @@ With this section, there will be a few differences in estimated expense and actu
 This section will list recurring fees for organization dues, premiums, etc.,...
 |Item						|Price		|Term	|Actual Expense	|Notes				|
 |:--------------------------|----------:|-------|---------------|-------------------|
-|AOPA Annual				|$56.00		|Annual	|				|					|
+|AOPA Annual				|$56.00		|Annual	|$56.00			|					|
 |ForeFlight Annual			|$99.99		|Annual |$99.00	 		|		 			|
-|**Total**					|$155.99	|		|$99.00			|					|
+|**Total**					|$155.99	|		|$155.00		|					|
 
 ## Other Expenses
 This section will contain items that I think I will need throughout my aviation career.
