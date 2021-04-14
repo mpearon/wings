@@ -13,16 +13,16 @@ With this section, there will be a few differences in estimated expense and actu
 |35hrs Flight Instruction	|$56.00		|35			|$1960.00		|$56.00		|3.5		|$196.00		|						|
 |30hrs Ground Instruction	|$56.00		|30			|$1680.00		|$56.00		|2			|$112.00		|Replaced with Sporty's	|
 |Cessna Private Pilot Kit	|$384.00	|1 			|$384.00		|$0.00		|0			|$0.00			|Replaced with Sporty's |
-|Written Test Fee			|$150.00	|1			|$150.00		|$150.00	|			|				|						|
-|Final Flight Test Fee		|$600.00	|1			|$600.00		|$600.00	|			|				|						|
 |Tax						|			|			|				|			|			|$30.10			|						|
-|**Total**					|			|			|$12364.00		|			|			|$683.10		|						|
+|**Total**					|			|			|$11614.00		|			|			|$683.10		|						|
 
 ## Other Training Fees
-|**Item**  					|**Price** 	|**Units** 	|**Extended** 	|**Notes**				|
-|:--------------------------|----------:|----------:|--------------:|-----------------------|
-|Sporty's PPL + IR Course	|$399.00	|1			|$399.00		|						|
-|**Total**					|			|			|$399.00		|						|
+|**Item**  					|**Price** 	|**Actual** 	|**Notes**				|
+|:--------------------------|----------:|--------------:|-----------------------|
+|Sporty's PPL + IR Course	|$399.00	|$399.00		|						|
+|Written Test Fee			|$150.00	|				|						|
+|Final Flight Test Fee		|$600.00	|				|						|
+|**Total**					|$1149.00	|$399.00		|						|
 
 ## Medical Fees
 |**Item**  					|**Price** 	|**Units** 	|**Actual Expenses**	|**Notes**				|
