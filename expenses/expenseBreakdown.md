@@ -28,7 +28,7 @@ With this section, there will be a few differences in estimated expense and actu
 |**Item**  					|**Price** 	|**Units** 	|**Actual Expenses**	|**Notes**				|
 |:--------------------------|----------:|----------:|----------------------:|-----------------------|
 |3rd Class Medical Exam		|$138.00	|1			|$138.00				|						|
-|**Total**					|			|			|$138.00				|						|
+|**Total**					|$138.00	|			|$138.00				|						|
 
 ## Recurring Fees
 This section will list recurring fees for organization dues, premiums, etc.,...
