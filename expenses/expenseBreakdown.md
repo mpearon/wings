@@ -6,7 +6,7 @@ I'll do my best to keep track of expenses here. This will be a living document.
 
 ## Flight School Expenses - [Jefferson City Flying Service](http://jcfs.net)
 With this section, there will be a few differences in estimated expense and actual expense, depending on differences in approaches.
-|Estimated	 				|           |           |              	|Actual	    |           |              	|						|
+|*Estimated* 				|           |           |              	| *Actual*  |           |              	|						|
 |:--------------------------|----------:|----------:|--------------:|----------:|----------:|--------------:|-----------------------|
 |**Item**  					|**Price** 	|**Units** 	|**Extended** 	|**Price**	|**Units**	| **Extended**	|**Notes**				|
 |55hrs Piper PA-28 Warrior	|$138.00	|55			|$7590.00		|$138.00	|2.5		|$345.00		|						|
