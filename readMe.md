@@ -13,7 +13,7 @@ My hope is that something I write here will either inspire someone else to get s
 - [X] [Lesson 1](./lessonRecaps/2021-04-05.md): Onboarding, Procedures, Preflight Checklist
 - [X] [<del>Lesson 2</del>](./lessonRecaps/2021-04-07.md): Cancelled due to poor weather
 - [X] [Lesson 2](./lessonRecaps/2021-04-09.md): Level Flight, Climbs, Descents and Turns
-- [ ] [Lesson 3](./lessonRecaps/2021-04-13.md): Slow Flight, Stalls, Level Flight, Compass Headings
+- [X] [Lesson 3](./lessonRecaps/2021-04-13.md): Slow Flight, Stalls, Level Flight, Compass Headings
 - [ ] [Lesson 4](./lessonRecaps/2021-04-14.md): Scheduled for 2021-04-21 18:00
 ## Reference Materials
 - [Briefings](./reference/briefings/): Standard flight briefings, provided by my CFI and [Flight School](http://jcfs.net/)
