@@ -15,6 +15,12 @@ My hope is that something I write here will either inspire someone else to get s
 - [X] [Lesson 2](./lessonRecaps/2021-04-09.md): Level Flight, Climbs, Descents and Turns
 - [X] [Lesson 3](./lessonRecaps/2021-04-13.md): Slow Flight, Stalls, Level Flight, Compass Headings
 - [ ] [Lesson 4](./lessonRecaps/2021-04-14.md): Scheduled for 2021-04-14 18:00
+- [ ] [Lesson 5](./lessonRecaps/2021-04-19.md): Scheduled for 2021-04-19 18:00
+- [ ] [Lesson 6](./lessonRecaps/2021-04-20.md): Scheduled for 2021-04-20 18:00
+- [ ] [Lesson 7](./lessonRecaps/2021-04-21.md): Scheduled for 2021-04-21 18:00
+- [ ] [Lesson 8](./lessonRecaps/): Not yet scheduled
+- [ ] [Lesson 9](./lessonRecaps/): Not yet scheduled
+- [ ] [Lesson 10](./lessonRecaps/): Not yet scheduled
 ## Reference Materials
 - [Briefings](./reference/briefings/): Standard flight briefings, provided by my CFI and [Flight School](http://jcfs.net/)
 - [Piper Warrior Reference](./reference/piperWarrior/): Reference material specific to the Piper Warrior PA-28-161 that will be used in my training, provided by my CFI and [Flight School](http://jcfs.net/)
