@@ -49,7 +49,7 @@ This section will contain items that I think I will need throughout my aviation 
 |ASA AirClassics Flight Bag	|$69.95		|				|[myPilotStore](https://mypilotstore.com/MyPilotStore/sep/2531)						|
 |GoPro Audio Recorder		|$99.95		|				|[myPilotStore](https://mypilotstore.com/MyPilotStore/sep/11806)					|
 |E6B Flight Computer		|$69.95		|				|[Sporty's](https://www.sportys.com/sporty-s-electronic-e6b-flight-computer.html)	|
-|Flight Plotter				|$16.95		|				|[Sporty's](https://www.sportys.com/ultimate-rotating-plotter-13-25.html)			|
+|Rotating Flight Plotter	|$16.95		|				|[Sporty's](https://www.sportys.com/ultimate-rotating-plotter-13-25.html)			|
 |Sentry Mini ADS-B			|$299.00	|				|[Sporty's](https://www.sportys.com/foreflight-sentry-mini-ads-b-receiver.html)		|
 |Pilot's Logbook			|$11.95		|$0.00			|[Sporty's](https://www.sportys.com/pilot-s-flight-logbook-and-record.html)			|
 |**Total**					|$1563.70	|				|																					|
