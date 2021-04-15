@@ -2,7 +2,7 @@
 I'll do my best to keep track of expenses here. This will be a living document.
 |Total Estimated	|Total Actual	|
 |-------------------|---------------|
-|$14253.69			|$1376.09		|
+|$14667.69			|$1503.41		|
 
 ## Flight School Expenses - [Jefferson City Flying Service](http://jcfs.net)
 With this section, there will be a few differences in estimated expense and actual expense, depending on differences in approaches.
@@ -48,8 +48,9 @@ This section will contain items that I think I will need throughout my aviation 
 |David Clark H10-13S Headset|$325.00	|				|[myPilotStore](https://mypilotstore.com/MyPilotStore/sep/1028)						|
 |ASA AirClassics Flight Bag	|$69.95		|				|[myPilotStore](https://mypilotstore.com/MyPilotStore/sep/2531)						|
 |GoPro Audio Recorder		|$99.95		|				|[myPilotStore](https://mypilotstore.com/MyPilotStore/sep/11806)					|
-|E6B Flight Computer		|$69.95		|				|[Sporty's](https://www.sportys.com/sporty-s-electronic-e6b-flight-computer.html)	|
-|Rotating Flight Plotter	|$16.95		|				|[Sporty's](https://www.sportys.com/ultimate-rotating-plotter-13-25.html)			|
+|ASA CX-3 Flight Computer	|$99.95		|$99.95			|[Sporty's](https://www.sportys.com/asa-cx-3-flight-computer.html)					|
+|Rotating Flight Plotter	|$16.95		|$16.95			|[Sporty's](https://www.sportys.com/ultimate-rotating-plotter-13-25.html)			|
 |Sentry Mini ADS-B			|$299.00	|				|[Sporty's](https://www.sportys.com/foreflight-sentry-mini-ads-b-receiver.html)		|
 |Pilot's Logbook			|$11.95		|$0.00			|[Sporty's](https://www.sportys.com/pilot-s-flight-logbook-and-record.html)			|
-|**Total**					|$1563.70	|				|																					|
+|Miscellaneous				|			|$10.00			|Shipping																			|
+|**Total**					|$1563.70	|$127.32		|																					|
