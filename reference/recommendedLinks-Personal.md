@@ -28,3 +28,5 @@ This is a list of links and information that I've found helpful.
 ## Others
 - [r/flying](https://reddit.com/r/flying): A subreddit dedicated to all things aviation.
 	- This site has a lot of great information from people that are either already pilots, or are on the same journey you are. It really helped to read stories of people that struggled with the same information or process that I did.
+- [ASA CX-3 Video](https://youtube.com/watch?v=q09al3xeLs): A video about how to use the ASA CX-3 for your practical exam
+	- For your practical exam, you're allowed to use a flight calculator. I chose the [ASA CX-3](https://www.sportys.com/asa-cx-3-flight-computer.html) for some of it's options, but there are other options - all of which are fairly similar. This video goes over how you will use the different functions of the CX-3 to solve the exam questions.
