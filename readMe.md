@@ -17,6 +17,10 @@ My hope is that something I write here will either inspire someone else to get s
 - [X] [<del>Lesson 4</del>](./lessonRecaps/2021-04-14.md): Cancelled due to poor weather
 - [X] [<del>Lesson 4</del>](./lessonRecaps/2021-04-20.md): Cancelled due to poor weather
 - [X] [<del>Lesson 4</del>](./lessonRecaps/2021-04-21.md): Cancelled due to poor weather
+
+> **An unwelcome hiatus**<br />
+Unfortunately, (due to poor forecasts, scheduling conflicts on my CFI's side, then more conflicts on my side) it looks like I'll be unable to fly again until possibly early June. My concern is that this will require a lesson or two for review - which means greater expense.
+
 - [ ] [Lesson 4](./lessonRecaps/): Not yet scheduled
 - [ ] [Lesson 5](./lessonRecaps/): Not yet scheduled
 - [ ] [Lesson 6](./lessonRecaps/): Not yet scheduled
