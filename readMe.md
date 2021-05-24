@@ -21,8 +21,8 @@ My hope is that something I write here will either inspire someone else to get s
 > **An unwelcome hiatus**<br />
 Unfortunately, (due to poor forecasts, scheduling conflicts on my CFI's side, then more conflicts on my side) it looks like I'll be unable to fly again until possibly early June. My concern is that this will require a lesson or two for review - which means greater expense.
 
-- [ ] [Lesson 4](./lessonRecaps/): Not yet scheduled
-- [ ] [Lesson 5](./lessonRecaps/): Not yet scheduled
+- [ ] [Lesson 4](./lessonRecaps/2021-05-25.md): Scheduled for 2021-05-25
+- [ ] [Lesson 5](./lessonRecaps/2021-05-28.md): Scheduled for 2021-05-28
 - [ ] [Lesson 6](./lessonRecaps/): Not yet scheduled
 - [ ] [Lesson 7](./lessonRecaps/): Not yet scheduled
 - [ ] [Lesson 8](./lessonRecaps/): Not yet scheduled
