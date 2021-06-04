@@ -23,7 +23,8 @@ Unfortunately, (due to poor forecasts, scheduling conflicts on my CFI's side, th
 
 - [X] [<del>Lesson 4</del>](./lessonRecaps/2021-05-25.md): Cancelled due to poor weather
 - [X] [<del>Lesson 4</del>](./lessonRecaps/2021-05-28.md): Cancelled due to poor weather
-- [ ] [Lesson 5](./lessonRecaps/): Not yet scheduled
+- [X] [Lesson 4](./lessonRecaps/2021-06-03.md): Taxi, Takeoff, Level Flight, Climbs, Descents and Turns, Landings
+- [ ] [Lesson 5](./lessonRecaps/): Scheduled for 2021-06-05 15:00
 - [ ] [Lesson 6](./lessonRecaps/): Not yet scheduled
 - [ ] [Lesson 7](./lessonRecaps/): Not yet scheduled
 - [ ] [Lesson 8](./lessonRecaps/): Not yet scheduled
