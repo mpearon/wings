@@ -3,7 +3,7 @@ This is a list of links and information that I've found helpful.
 # Training
 ## Ground School
 - [Sporty's Pilot Shop](https://sportys.com/): This is the online ground school that I used.
-	- I cover this in the [How to get started](../gettingstarted.md) document.
+	- I cover this in the [How to get started](../gettingStarted.md) document.
 - [Fly 8MA](https://fly8ma.com): Offers free ground school training
 	- I used fly8MA's free [Private Pilot 101](https://www.youtube.com/watch?v=G1v7KYjjtCI&list=PLnjaM9eVs4pvHFgcSAkepEbWwQpGtbY5c) videos ahead of my ground school to gain a rudimentary understanding of flight. 
 	- Useless information: Fly8MA is based out of the local airport of where my family used to vacation every year - [KVNC in Venice, Florida](https://en.wikipedia.org/wiki/Venice_Municipal_Airport). Lots of great scenery to take in throughout these videos.
