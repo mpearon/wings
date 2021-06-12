@@ -26,7 +26,7 @@ Unfortunately, (due to poor forecasts, scheduling conflicts on my CFI's side, th
 - [X] [Lesson 4](./lessonRecaps/2021-06-03.md): Taxi, Takeoff, Level Flight, Climbs, Descents and Turns, Landings
 - [X] [Lesson 5](./lessonRecaps/2021-06-05.md): Steep Turns, Stalls, S-Turns, Turns around a Point, Cross-wind Landings
 - [X] [Lesson 6](./lessonRecaps/2021-06-10.md): Steep Turns, Stalls, Landings
-- [ ] [Lesson 7](./lessonRecaps/): Not yet scheduled
+- [X] [Lesson 7](./lessonRecaps/2021-06-11.md): Steep Turns, Landings
 - [ ] [Lesson 8](./lessonRecaps/): Not yet scheduled
 - [ ] [Lesson 9](./lessonRecaps/): Not yet scheduled
 - [ ] [Lesson 10](./lessonRecaps/): Not yet scheduled
