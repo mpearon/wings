@@ -28,7 +28,7 @@ Unfortunately, (due to poor forecasts, scheduling conflicts on my CFI's side, th
 - [X] [Lesson 5](./lessonRecaps/2021-06-10.md): Steep Turns, Stalls, Landings
 - [X] [Lesson 6](./lessonRecaps/2021-06-11.md): Steep Turns, Landings
 - [X] [Lesson 7](./lessonRecaps/2021-06-12.md): Slow Flight, Stalls, Steep Turns, Landings
-- [ ] [Lesson 8](./lessonRecaps/): Scheduled for 2021-06-15
+- [X] [Lesson 8](./lessonRecaps/2021-06-15.md): Slow Flight, Stalls, Ground Reference, Landings
 - [ ] [Lesson 9](./lessonRecaps/): Scheduled for 2021-06-16
 - [ ] [Lesson 10](./lessonRecaps/): Scheduled for 2021-06-17
 ## Reference Materials
