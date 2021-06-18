@@ -29,8 +29,10 @@ Unfortunately, (due to poor forecasts, scheduling conflicts on my CFI's side, th
 - [X] [Lesson 6](./lessonRecaps/2021-06-11.md): Steep Turns, Landings
 - [X] [Lesson 7](./lessonRecaps/2021-06-12.md): Slow Flight, Stalls, Steep Turns, Landings
 - [X] [Lesson 8](./lessonRecaps/2021-06-15.md): Slow Flight, Stalls, Ground Reference, Landings
-- [X] [Lesson 9](./lessonRecaps/): Slow Flight, Stalls, Ground Reference, Landings
-- [ ] [Lesson 10](./lessonRecaps/): Scheduled for 2021-06-17
+- [X] [Lesson 9](./lessonRecaps/2021-06-16.md): Slow Flight, Stalls, Ground Reference, Landings
+- [X] [Lesson 10](./lessonRecaps/2021-06-17.md): Slow Flight, Stalls, Ground Reference, Crosswind Landings
+- [] [Lesson 11](./lessonRecaps/): Not yet scheduled
+- [] [Lesson 12](./lessonRecaps/): Not yet scheduledLandings
 ## Reference Materials
 - [Briefings](./reference/briefings/): Standard flight briefings, provided by my CFI and [Flight School](http://jcfs.net/)
 - [Piper Warrior Reference](./reference/piperWarrior/): Reference material specific to the Piper Warrior PA-28-161 that will be used in my training, provided by my CFI and [Flight School](http://jcfs.net/)
