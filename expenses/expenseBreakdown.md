@@ -2,19 +2,19 @@
 I'll do my best to keep track of expenses here. This will be a living document.
 |Total Estimated	|Total Actual	|
 |-------------------|---------------|
-|$14667.69			|$4342.72		|
+|$14667.69			|$4392.08		|
 
 ## Flight School Expenses - [Jefferson City Flying Service](http://jcfs.net)
 With this section, there will be a few differences in estimated expense and actual expense, depending on differences in approaches.
 |*Estimated* 				|           |           |              	| *Actual*  |           |              	|						|
 |:--------------------------|----------:|----------:|--------------:|----------:|----------:|--------------:|-----------------------|
 |**Item**  					|**Price** 	|**Units** 	|**Extended** 	|**Price**	|**Units**	| **Extended**	|**Notes**				|
-|55hrs Piper PA-28 Warrior	|$138.00	|55			|$7590.00		|$138.00	|15.6		|$2152.80		|						|
-|35hrs Flight Instruction	|$56.00		|35			|$1960.00		|$56.00		|15.3		|$1075.20		|						|
-|30hrs Ground Instruction	|$56.00		|30			|$1680.00		|$56.00		|2			|$112.00		|Replaced with Sporty's	|
+|55hrs Piper PA-28 Warrior	|$138.00	|55			|$7590.00		|$138.00	|16.2		|$2235.60		|						|
+|35hrs Flight Instruction	|$56.00		|35			|$1960.00		|$56.00		|15.6		|$873.60		|						|
+|30hrs Ground Instruction	|$56.00		|30			|$1680.00		|$56.00		|5.1		|$285.60		|Replaced with Sporty's	|
 |Cessna Private Pilot Kit	|$384.00	|1 			|$384.00		|$0.00		|0			|$0.00			|Replaced with Sporty's |
-|Tax						|			|			|				|			|			|$183.40		|						|
-|**Total**					|			|			|$11614.00		|			|			|$3523.40		|						|
+|Tax						|			|			|				|			|			|$176.97		|						|
+|**Total**					|			|			|$11614.00		|			|			|$3571.77		|						|
 
 ## Other Training Fees
 |**Item**  					|**Price** 	|**Actual** 	|**Notes**				|
@@ -35,8 +35,8 @@ This section will list recurring fees for organization dues, premiums, etc.,...
 |Item						|Price		|Term	|Actual Expense	|Notes				|
 |:--------------------------|----------:|-------|---------------|-------------------|
 |AOPA Annual				|$56.00		|Annual	|$56.00			|					|
-|ForeFlight Annual			|$99.99		|Annual |$99.00	 		|		 			|
-|**Total**					|$155.99	|		|$155.00		|					|
+|ForeFlight Annual			|$99.99		|Annual |$99.99	 		|		 			|
+|**Total**					|$155.99	|		|$155.99		|					|
 
 ## Other Expenses
 This section will contain items that I think I will need throughout my aviation career.
@@ -52,5 +52,5 @@ This section will contain items that I think I will need throughout my aviation 
 |Rotating Flight Plotter	|$16.95		|$16.95			|[Sporty's](https://www.sportys.com/ultimate-rotating-plotter-13-25.html)			|
 |Sentry Mini ADS-B			|$299.00	|				|[Sporty's](https://www.sportys.com/foreflight-sentry-mini-ads-b-receiver.html)		|
 |Pilot's Logbook			|$11.95		|$0.00			|[Sporty's](https://www.sportys.com/pilot-s-flight-logbook-and-record.html)			|
-|Miscellaneous				|			|$10.00			|Shipping																			|
+|Miscellaneous				|			|$10.42			|Shipping																			|
 |**Total**					|$1563.70	|$127.32		|																					|
