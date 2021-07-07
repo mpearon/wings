@@ -2,19 +2,19 @@
 I'll do my best to keep track of expenses here. This will be a living document.
 |Total Estimated	|Total Actual	|
 |-------------------|---------------|
-|$14667.69			|$4955.19		|
+|$14667.69			|$5573.10		|
 
 ## Flight School Expenses - [Jefferson City Flying Service](http://jcfs.net)
 With this section, there will be a few differences in estimated expense and actual expense, depending on differences in approaches.
 |*Estimated* 				|           |           |              	| *Actual*  |           |              	|						|
 |:--------------------------|----------:|----------:|--------------:|----------:|----------:|--------------:|-----------------------|
 |**Item**  					|**Price** 	|**Units** 	|**Extended** 	|**Price**	|**Units**	| **Extended**	|**Notes**				|
-|55hrs Piper PA-28 Warrior	|$138.00	|55			|$7590.00		|$138.00	|18.3		|$2525.40		|						|
-|35hrs Flight Instruction	|$56.00		|35			|$1960.00		|$56.00		|18.3		|$1024.80		|						|
-|30hrs Ground Instruction	|$56.00		|30			|$1680.00		|$56.00		|6.7		|$375.20		|Replaced with Sporty's	|
+|55hrs Piper PA-28 Warrior	|$138.00	|55			|$7590.00		|$138.00	|21.0		|$2898.00		|						|
+|35hrs Flight Instruction	|$56.00		|35			|$1960.00		|$56.00		|21.0		|$1176.00		|						|
+|30hrs Ground Instruction	|$56.00		|30			|$1680.00		|$56.00		|7.8		|$436.80		|Replaced with Sporty's	|
 |Cessna Private Pilot Kit	|$384.00	|1 			|$384.00		|$0.00		|0			|$0.00			|Replaced with Sporty's |
-|Tax						|			|			|				|			|			|$209.48		|						|
-|**Total**					|			|			|$11614.00		|			|			|$4134.88		|						|
+|Tax						|			|			|				|			|			|$241.99		|						|
+|**Total**					|			|			|$11614.00		|			|			|$4752.79		|						|
 
 ## Other Training Fees
 |**Item**  					|**Price** 	|**Actual** 	|**Notes**				|
