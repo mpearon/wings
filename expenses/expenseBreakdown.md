@@ -14,7 +14,7 @@ With this section, there will be a few differences in estimated expense and actu
 |30hrs Ground Instruction	|$56.00		|30			|$1680.00		|$56.00		|8.7		|$487.20		|Replaced with Sporty's	|
 |Cessna Private Pilot Kit	|$384.00	|1 			|$384.00		|$0.00		|0			|$0.00			|Replaced with Sporty's |
 |Tax						|			|			|				|			|			|$275.70		|						|
-|**Total**					|			|			|$11614.00		|			|			|$6589.16		|						|
+|**Total**					|			|			|$11614.00		|			|			|$5689.16		|						|
 
 ## Other Training Fees
 |**Item**  					|**Price** 	|**Actual** 	|**Notes**				|
