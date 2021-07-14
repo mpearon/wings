@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+    <name>FlightAware ✈ N43060 13-Jul-2021 (KJEF-KJEF)</name>
+    <Placemark>
+        <name>KJEF Airport</name>
+        <description><![CDATA[Jefferson City Meml <br> Jefferson City, MO<br><br><a href='http://flightaware.com/live/airport/KJEF'>KJEF airport activity (live)</a><br><a href='http://flightaware.com/resources/airport/KJEF'>KJEF airport information</a>]]></description>
+        <Point>
+            <coordinates>-92.1561447,38.5911736,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>KJEF Airport</name>
+        <description><![CDATA[Jefferson City Meml <br> Jefferson City, MO<br><br><a href='http://flightaware.com/live/airport/KJEF'>KJEF airport activity (live)</a><br><a href='http://flightaware.com/resources/airport/KJEF'>KJEF airport information</a>]]></description>
+        <Point>
+            <coordinates>-92.1561447,38.5911736,0</coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name>N43060</name>
+        <description>KJEF - KJEF</description>
+        <gx:Track>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <when>2021-07-13T23:37:59Z</when>
+            <when>2021-07-13T23:39:09Z</when>
+            <when>2021-07-13T23:39:25Z</when>
+            <when>2021-07-13T23:39:53Z</when>
+            <when>2021-07-13T23:43:20Z</when>
+            <when>2021-07-13T23:43:39Z</when>
+            <when>2021-07-13T23:43:55Z</when>
+            <when>2021-07-13T23:44:15Z</when>
+            <when>2021-07-13T23:44:34Z</when>
+            <when>2021-07-13T23:44:54Z</when>
+            <when>2021-07-13T23:48:23Z</when>
+            <when>2021-07-13T23:48:40Z</when>
+            <when>2021-07-13T23:49:01Z</when>
+            <when>2021-07-13T23:49:22Z</when>
+            <when>2021-07-13T23:49:38Z</when>
+            <when>2021-07-13T23:53:11Z</when>
+            <when>2021-07-13T23:53:28Z</when>
+            <when>2021-07-13T23:53:52Z</when>
+            <when>2021-07-13T23:54:09Z</when>
+            <when>2021-07-13T23:54:25Z</when>
+            <when>2021-07-13T23:57:49Z</when>
+            <when>2021-07-13T23:58:05Z</when>
+            <when>2021-07-13T23:58:21Z</when>
+            <when>2021-07-13T23:58:39Z</when>
+            <when>2021-07-13T23:58:59Z</when>
+            <when>2021-07-14T00:02:30Z</when>
+            <when>2021-07-14T00:02:46Z</when>
+            <when>2021-07-14T00:03:02Z</when>
+            <when>2021-07-14T00:03:20Z</when>
+            <when>2021-07-14T00:03:39Z</when>
+            <when>2021-07-14T00:03:57Z</when>
+            <when>2021-07-14T00:07:11Z</when>
+            <when>2021-07-14T00:07:29Z</when>
+            <when>2021-07-14T00:07:49Z</when>
+            <when>2021-07-14T00:08:06Z</when>
+            <when>2021-07-14T00:08:22Z</when>
+            <when>2021-07-14T00:08:39Z</when>
+            <when>2021-07-14T00:11:54Z</when>
+            <when>2021-07-14T00:12:12Z</when>
+            <when>2021-07-14T00:12:31Z</when>
+            <when>2021-07-14T00:12:48Z</when>
+            <when>2021-07-14T00:13:13Z</when>
+            <when>2021-07-14T00:16:43Z</when>
+            <when>2021-07-14T00:17:02Z</when>
+            <when>2021-07-14T00:17:18Z</when>
+            <when>2021-07-14T00:17:38Z</when>
+            <when>2021-07-14T00:18:00Z</when>
+            <when>2021-07-14T00:18:16Z</when>
+            <when>2021-07-14T00:18:32Z</when>
+            <when>2021-07-14T00:18:51Z</when>
+            <when>2021-07-14T00:21:39Z</when>
+            <when>2021-07-14T00:24:17Z</when>
+            <when>2021-07-14T00:24:47Z</when>
+            <when>2021-07-14T00:25:03Z</when>
+            <when>2021-07-14T00:25:24Z</when>
+            <when>2021-07-14T00:25:44Z</when>
+            <when>2021-07-14T00:26:02Z</when>
+            <when>2021-07-14T00:26:23Z</when>
+            <when>2021-07-14T00:29:05Z</when>
+            <when>2021-07-14T00:29:30Z</when>
+            <when>2021-07-14T00:29:57Z</when>
+            <when>2021-07-14T00:30:27Z</when>
+            <when>2021-07-14T00:30:46Z</when>
+            <when>2021-07-14T00:33:40Z</when>
+            <when>2021-07-14T00:33:56Z</when>
+            <when>2021-07-14T00:34:14Z</when>
+            <when>2021-07-14T00:34:32Z</when>
+            <when>2021-07-14T00:34:57Z</when>
+            <when>2021-07-14T00:35:23Z</when>
+            <when>2021-07-14T00:35:40Z</when>
+            <when>2021-07-14T00:38:34Z</when>
+            <when>2021-07-14T00:38:52Z</when>
+            <when>2021-07-14T00:39:09Z</when>
+            <when>2021-07-14T00:39:28Z</when>
+            <when>2021-07-14T00:39:45Z</when>
+            <when>2021-07-14T00:40:03Z</when>
+            <when>2021-07-14T00:40:19Z</when>
+            <when>2021-07-14T00:40:36Z</when>
+            <when>2021-07-14T00:43:12Z</when>
+            <when>2021-07-14T00:43:28Z</when>
+            <when>2021-07-14T00:43:50Z</when>
+            <when>2021-07-14T00:44:07Z</when>
+            <when>2021-07-14T00:44:26Z</when>
+            <when>2021-07-14T00:44:51Z</when>
+            <when>2021-07-14T00:45:18Z</when>
+            <gx:coord>-92.17438 38.60144 375</gx:coord>
+            <gx:coord>-92.17768 38.58247 488</gx:coord>
+            <gx:coord>-92.16950 38.57877 427</gx:coord>
+            <gx:coord>-92.15475 38.57281 396</gx:coord>
+            <gx:coord>-92.18066 38.60056 335</gx:coord>
+            <gx:coord>-92.18665 38.59376 427</gx:coord>
+            <gx:coord>-92.18402 38.58743 427</gx:coord>
+            <gx:coord>-92.17326 38.58202 427</gx:coord>
+            <gx:coord>-92.16461 38.57762 396</gx:coord>
+            <gx:coord>-92.15405 38.57300 396</gx:coord>
+            <gx:coord>-92.18091 38.59428 366</gx:coord>
+            <gx:coord>-92.18292 38.58841 396</gx:coord>
+            <gx:coord>-92.17243 38.58247 396</gx:coord>
+            <gx:coord>-92.16150 38.57719 396</gx:coord>
+            <gx:coord>-92.15442 38.57360 427</gx:coord>
+            <gx:coord>-92.18231 38.59311 366</gx:coord>
+            <gx:coord>-92.18262 38.58734 396</gx:coord>
+            <gx:coord>-92.17105 38.58083 396</gx:coord>
+            <gx:coord>-92.16216 38.57661 396</gx:coord>
+            <gx:coord>-92.15451 38.57336 396</gx:coord>
+            <gx:coord>-92.17889 38.59492 366</gx:coord>
+            <gx:coord>-92.18306 38.59026 427</gx:coord>
+            <gx:coord>-92.17816 38.58454 427</gx:coord>
+            <gx:coord>-92.16852 38.57993 427</gx:coord>
+            <gx:coord>-92.15869 38.57547 396</gx:coord>
+            <gx:coord>-92.17993 38.59357 396</gx:coord>
+            <gx:coord>-92.18294 38.58778 396</gx:coord>
+            <gx:coord>-92.17565 38.58298 396</gx:coord>
+            <gx:coord>-92.16658 38.57872 396</gx:coord>
+            <gx:coord>-92.15717 38.57458 396</gx:coord>
+            <gx:coord>-92.14890 38.57103 396</gx:coord>
+            <gx:coord>-92.17883 38.59423 366</gx:coord>
+            <gx:coord>-92.18317 38.58831 396</gx:coord>
+            <gx:coord>-92.17505 38.58270 396</gx:coord>
+            <gx:coord>-92.16766 38.57938 427</gx:coord>
+            <gx:coord>-92.15935 38.57556 427</gx:coord>
+            <gx:coord>-92.15131 38.57197 396</gx:coord>
+            <gx:coord>-92.17768 38.59451 366</gx:coord>
+            <gx:coord>-92.18204 38.58920 396</gx:coord>
+            <gx:coord>-92.17595 38.58316 396</gx:coord>
+            <gx:coord>-92.16861 38.58018 396</gx:coord>
+            <gx:coord>-92.15738 38.57465 396</gx:coord>
+            <gx:coord>-92.17767 38.59409 366</gx:coord>
+            <gx:coord>-92.18219 38.58808 396</gx:coord>
+            <gx:coord>-92.17607 38.58362 427</gx:coord>
+            <gx:coord>-92.16620 38.57933 396</gx:coord>
+            <gx:coord>-92.15672 38.57497 396</gx:coord>
+            <gx:coord>-92.14986 38.57153 396</gx:coord>
+            <gx:coord>-92.14365 38.56856 396</gx:coord>
+            <gx:coord>-92.13629 38.57235 366</gx:coord>
+            <gx:coord>-92.18188 38.60577 305</gx:coord>
+            <gx:coord>-92.13159 38.59406 396</gx:coord>
+            <gx:coord>-92.14532 38.60251 427</gx:coord>
+            <gx:coord>-92.15308 38.60687 427</gx:coord>
+            <gx:coord>-92.16168 38.61224 396</gx:coord>
+            <gx:coord>-92.17028 38.61607 335</gx:coord>
+            <gx:coord>-92.17655 38.61163 305</gx:coord>
+            <gx:coord>-92.18085 38.60559 274</gx:coord>
+            <gx:coord>-92.13027 38.59396 396</gx:coord>
+            <gx:coord>-92.14347 38.60165 427</gx:coord>
+            <gx:coord>-92.15583 38.60916 396</gx:coord>
+            <gx:coord>-92.16843 38.61584 335</gx:coord>
+            <gx:coord>-92.17607 38.61182 274</gx:coord>
+            <gx:coord>-92.13135 38.59288 396</gx:coord>
+            <gx:coord>-92.13672 38.59813 396</gx:coord>
+            <gx:coord>-92.14639 38.60385 396</gx:coord>
+            <gx:coord>-92.15434 38.60870 396</gx:coord>
+            <gx:coord>-92.16455 38.61516 366</gx:coord>
+            <gx:coord>-92.17535 38.61191 335</gx:coord>
+            <gx:coord>-92.17999 38.60824 305</gx:coord>
+            <gx:coord>-92.13287 38.59446 396</gx:coord>
+            <gx:coord>-92.14210 38.60001 427</gx:coord>
+            <gx:coord>-92.15057 38.60490 427</gx:coord>
+            <gx:coord>-92.15918 38.61024 396</gx:coord>
+            <gx:coord>-92.16610 38.61484 396</gx:coord>
+            <gx:coord>-92.17368 38.61475 366</gx:coord>
+            <gx:coord>-92.17792 38.61067 335</gx:coord>
+            <gx:coord>-92.18114 38.60632 305</gx:coord>
+            <gx:coord>-92.13445 38.59492 396</gx:coord>
+            <gx:coord>-92.14124 38.59972 396</gx:coord>
+            <gx:coord>-92.15253 38.60689 396</gx:coord>
+            <gx:coord>-92.15935 38.61159 396</gx:coord>
+            <gx:coord>-92.16675 38.61648 366</gx:coord>
+            <gx:coord>-92.17583 38.61237 305</gx:coord>
+            <gx:coord>-92.18097 38.60526 274</gx:coord>
+        </gx:Track>
+    </Placemark>
+    <ScreenOverlay>
+        <name>FlightAware</name>
+        <Icon>
+            <href>https://flightaware.com/images/logo_ge.png</href>
+        </Icon>
+        <overlayXY x="1" y="-1" xunits="fraction" yunits="fraction"/>
+        <screenXY x="1" y="0" xunits="fraction" yunits="fraction"/>
+        <size x="0" y="0" xunits="fraction" yunits="fraction"/>
+    </ScreenOverlay>
+</Document>
+
+</kml>

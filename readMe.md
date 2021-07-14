@@ -40,7 +40,7 @@ Unfortunately, (due to poor forecasts, scheduling conflicts on my CFI's side, th
 - [X] [Lesson 14](./lessonRecaps/2021-07-06.md): Normal Landings
 - [X] [Lesson 15](./lessonRecaps/2021-07-07.md): Normal Landings
 - [X] [Lesson 16](./lessonRecaps/2021-07-09.md): Normal Landings
-- [ ] [Lesson 17](./lessonRecaps/): Scheduled for 2021-07-13
+- [X] [Lesson 17](./lessonRecaps/2021-07-13.md): Normal Landings
 - [ ] [Lesson 18](./lessonRecaps/): Scheduled for 2021-07-14
 - [ ] [Lesson 19](./lessonRecaps/): Scheduled for 2021-07-16
 - [ ] [Lesson 20](./lessonRecaps/): Scheduled for 2021-07-17
