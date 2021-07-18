@@ -2,7 +2,7 @@
 I'll do my best to keep track of expenses here. This will be a living document.
 |Total Estimated	|Total Actual	|
 |-------------------|---------------|
-|$14770.73			|$6740.00		|
+|$14810.68			|$6740.00		|
 
 ## Flight School Expenses - [Jefferson City Flying Service][L0]
 With this section, there will be a few differences in estimated expense and actual expense, depending on differences in approaches.
@@ -54,7 +54,7 @@ This section will contain items that I think I will need throughout my aviation 
 |Sentry Mini ADS-B			|$299.00					|						|[Sporty's][L10]	|
 |Pilot's Logbook			|$11.95						|$0.00					|[Sporty's][L11]	|
 |Miscellaneous				|							|$20.96					|Shipping			|
-|**Total**					|$1713.74					|$357.85				|					|
+|**Total**					|$1753.70					|$357.85				|					|
 
 
 [L0]: https://jcfs.com
