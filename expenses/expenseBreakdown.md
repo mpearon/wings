@@ -67,5 +67,5 @@ This section will contain items that I think I will need throughout my aviation 
 [L7]: https://www.sportys.com/nflightcam-cockpit-kit-for-gopro-hero9-black.html
 [L8]: https://www.sportys.com/asa-cx-3-flight-computer.html
 [L9]: https://www.sportys.com/ultimate-rotating-plotter-13-25.html
-[10]: https://www.sportys.com/foreflight-sentry-mini-ads-b-receiver.html
+[L10]: https://www.sportys.com/foreflight-sentry-mini-ads-b-receiver.html
 [L11]: https://www.sportys.com/pilot-s-flight-logbook-and-record.html
