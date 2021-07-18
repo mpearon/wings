@@ -44,14 +44,15 @@ This section will contain items that I think I will need throughout my aviation 
 |:--------------------------|--------------------------:|----------------------:|-------------------|
 |iPad Mini Knee board		|$42.95						|						|[myPilotStore][L1]	|
 |iPad Mini (64GB) Wifi+LTE	|$529.00					|						|[Options][L2]		|
-|Apple Pencil (1st Gen)		|$99.00						|						|[Apple][L3]		|
-|David Clark H10-13S Headset|$325.00					|						|[myPilotStore][L4]	|
-|ASA AirClassics Flight Bag	|$69.95						|						|[myPilotStore][L5]	|
-|NFlightcam Cockpit Kit		|$219.99					|$219.99				|[myPilotStore][L6]	|
-|ASA CX-3 Flight Computer	|$99.95						|$99.95					|[Sporty's][L7]		|
-|Rotating Flight Plotter	|$16.95						|$16.95					|[Sporty's][L8]		|
-|Sentry Mini ADS-B			|$299.00					|						|[Sporty's][L9]		|
-|Pilot's Logbook			|$11.95						|$0.00					|[Sporty's][L10]	|
+|External Audio Source Cable|$39.95						|						|[myPilotSore][L3]	|
+|Apple Pencil (1st Gen)		|$99.00						|						|[Apple][L4]		|
+|David Clark H10-13S Headset|$325.00					|						|[myPilotStore][L5]	|
+|ASA AirClassics Flight Bag	|$69.95						|						|[myPilotStore][L6]	|
+|NFlightcam Cockpit Kit		|$219.99					|$219.99				|[myPilotStore][L7]	|
+|ASA CX-3 Flight Computer	|$99.95						|$99.95					|[Sporty's][L8]		|
+|Rotating Flight Plotter	|$16.95						|$16.95					|[Sporty's][L9]		|
+|Sentry Mini ADS-B			|$299.00					|						|[Sporty's][L10]	|
+|Pilot's Logbook			|$11.95						|$0.00					|[Sporty's][L11]	|
 |Miscellaneous				|							|$20.96					|Shipping			|
 |**Total**					|$1713.74					|$357.85				|					|
 
@@ -59,11 +60,12 @@ This section will contain items that I think I will need throughout my aviation 
 [L0]: https://jcfs.com
 [L1]: https://mypilotstore.com/MyPilotStore/sep/13591
 [L2]: https://foreflight.com/support/buying-guide/
-[L3]: https://www.apple.com/apple-pencil/
-[L4]: https://mypilotstore.com/MyPilotStore/sep/1028
-[L5]: https://mypilotstore.com/MyPilotStore/sep/2531
-[L6]: https://www.sportys.com/nflightcam-cockpit-kit-for-gopro-hero9-black.html
-[L7]: https://www.sportys.com/asa-cx-3-flight-computer.html
-[L8]: https://www.sportys.com/ultimate-rotating-plotter-13-25.html
-[L9]: https://www.sportys.com/foreflight-sentry-mini-ads-b-receiver.html
-[L10]: https://www.sportys.com/pilot-s-flight-logbook-and-record.html
+[L3]: https://www.mypilotstore.com/mypilotstore/sep/3332
+[L4]: https://www.apple.com/apple-pencil/
+[L5]: https://mypilotstore.com/MyPilotStore/sep/1028
+[L6]: https://mypilotstore.com/MyPilotStore/sep/2531
+[L7]: https://www.sportys.com/nflightcam-cockpit-kit-for-gopro-hero9-black.html
+[L8]: https://www.sportys.com/asa-cx-3-flight-computer.html
+[L9]: https://www.sportys.com/ultimate-rotating-plotter-13-25.html
+[10]: https://www.sportys.com/foreflight-sentry-mini-ads-b-receiver.html
+[L11]: https://www.sportys.com/pilot-s-flight-logbook-and-record.html
