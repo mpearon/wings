@@ -43,7 +43,7 @@ Unfortunately, (due to poor forecasts, scheduling conflicts on my CFI's side, th
 - [X] [Lesson 17](./lessonRecaps/2021-07-13.md): Normal Landings
 - [X] [<del>Lesson 18</del>](./lessonRecaps/2021-07-14.md): Cancelled due to poor weather
 - [X] [<del>Lesson 18</del>](./lessonRecaps/2021-07-16.md): Cancelled due to poor weather
-- [X] [<del>Lesson 18</del>](./lessonRecaps/2021-07-17): Cancelled due to poor weather
+- [X] [<del>Lesson 18</del>](./lessonRecaps/2021-07-17.md): Cancelled due to poor weather
 - [X] [Lesson 18](./lessonRecaps/2021-07-19.md): Normal Landings
 - [ ] [Lesson 19](./lessonRecaps/): Scheduled for 2021-07-20
 - [ ] [Lesson 20](./lessonRecaps/): Scheduled for 2021-07-21
