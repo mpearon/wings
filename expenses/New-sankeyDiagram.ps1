@@ -1,3 +1,4 @@
+# https://sankeymatic.com/build/
 Import-Module ImportExcel
 $expenses = Import-Excel -Path 'C:\temp\wings-expenses.xlsx' -WorksheetName Expenses -StartRow 4
 $expenses.Category | Sort-Object -Unique | ForEach-Object{
