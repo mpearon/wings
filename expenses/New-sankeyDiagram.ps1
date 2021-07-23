@@ -1,6 +1,15 @@
 # https://sankeymatic.com/build/
+if($IsWindows){
+	$path = '~\Documents\temp\autoscrub\wings-expenses.xlsx'
+}
+elseIf($IsLinux){
+	$path = '~/Documents/temp/autoscrub/wings-expenses.xlsx'
+}
+elseIf($IsMacOS){
+	$path = '~/Documents/temp/autoscrub/wings-expenses.xlsx'
+}
 Import-Module ImportExcel
-$expenses = Import-Excel -Path 'C:\temp\wings-expenses.xlsx' -WorksheetName Expenses -StartRow 4
+$expenses = Import-Excel -Path $path -WorksheetName Expenses -StartRow 4
 $expenses.Category | Sort-Object -Unique | ForEach-Object{
 	# Category Breakdown
 	$thisCategory = $_
@@ -23,4 +32,4 @@ $expenses.Category | Sort-Object -Unique | ForEach-Object{
 			('{0} [{1}] {2}' -f $thisSubcategory, $relatedAmount.sum, $thisRelation )
 		}
 	}
-} | Clip
+}
