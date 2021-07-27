@@ -2,7 +2,7 @@
 I'll do my best to keep track of expenses here. This will be a living document.
 |Total Estimated	|Total Actual	|
 |-------------------|---------------|
-|$14810.68			|$8093.63		|
+|$14810.68			|$8268.63		|
 
 ## Flight School Expenses - [Jefferson City Flying Service][L0]
 With this section, there will be a few differences in estimated expense and actual expense, depending on differences in approaches.
@@ -20,9 +20,9 @@ With this section, there will be a few differences in estimated expense and actu
 |**Item**  					|**Estimated Expense** 	|**Actual Expense** 	|**Notes**				|
 |:--------------------------|----------------------:|----------------------:|-----------------------|
 |Sporty's PPL + IR Course	|$399.00				|$399.00				|						|
-|Written Test Fee			|$150.00				|						|						|
+|Written Test Fee			|$150.00				|$175.00				|						|
 |Final Flight Test Fee		|$600.00				|						|						|
-|**Total**					|$1149.00				|$399.00				|						|
+|**Total**					|$1149.00				|$574.00				|						|
 
 ## Medical Fees
 |**Item**  					|**Estimated Expense** 	|**Units** 	|**Actual Expenses**	|**Notes**				|
