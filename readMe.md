@@ -48,7 +48,7 @@ Unfortunately, (due to poor forecasts, scheduling conflicts on my CFI's side, th
 - [X] [Lesson 19](./lessonRecaps/2021-07-20.md): Normal Landings
 - [X] [Lesson 20](./lessonRecaps/2021-07-21.md): Normal Landings
 - [X] [Lesson 21](./lessonRecaps/): Scheduled for 2021-07-22
-- [X] [<del>Lesson 22</del>](./lessonRecaps/): Cancelled to to availability
+- [X] [<del>Lesson 22</del>](./lessonRecaps/2021-07-23.md): Cancelled to to availability
 - [X] [Lesson 22](./lessonRecaps/2021-08-02.md): Normal Landings / 1<sup>st</sup> Solo
 - [X] [Lesson 23](./lessonRecaps/2021-08-03.md): 1<sup>st</sup> Dual Cross Country
 ## Reference Materials
