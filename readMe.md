@@ -47,8 +47,10 @@ Unfortunately, (due to poor forecasts, scheduling conflicts on my CFI's side, th
 - [X] [Lesson 18](./lessonRecaps/2021-07-19.md): Normal Landings
 - [X] [Lesson 19](./lessonRecaps/2021-07-20.md): Normal Landings
 - [X] [Lesson 20](./lessonRecaps/2021-07-21.md): Normal Landings
-- [ ] [Lesson 21](./lessonRecaps/): Scheduled for 2021-07-22
-- [ ] [<del>Lesson 22</del>](./lessonRecaps/): Cancelled to to availability
+- [X] [Lesson 21](./lessonRecaps/): Scheduled for 2021-07-22
+- [X] [<del>Lesson 22</del>](./lessonRecaps/): Cancelled to to availability
+- [X] [Lesson 22](./lessonRecaps/2021-08-02.md): Normal Landings / 1<sup>st</sup> Solo
+- [X] [Lesson 23](./lessonRecaps/2021-08-03.md): 1<sup>st</sup> Dual Cross Country
 ## Reference Materials
 - [Briefings](./reference/briefings/): Standard flight briefings, provided by my CFI and [Flight School](http://jcfs.net/)
 - [Piper Warrior Reference](./reference/piperWarrior/): Reference material specific to the Piper Warrior PA-28-161 that will be used in my training, provided by my CFI and [Flight School](http://jcfs.net/)
