@@ -53,6 +53,8 @@ Unfortunately, (due to poor forecasts, scheduling conflicts on my CFI's side, th
 - [X] [Lesson 23](./lessonRecaps/2021-08-03.md): 1<sup>st</sup> Dual Cross Country
 - [X] [Lesson 24](./lessonRecaps/2021-08-04.md): Pattern Entry/Exit Procedures
 - [X] [Lesson 25](./lessonRecaps/2021-08-05.md): Simulated Instrument Training, RNAV 12 Approach
+- [X] [Lesson 26](./lessonRecaps/2021-08-11.md): Pattern Entry/Exit Procedures
+- [X] [Lesson 27](./lessonRecaps/2021-08-12.md): Pattern Entry/Exit Procedures
 ## Reference Materials
 - [Briefings](./reference/briefings/): Standard flight briefings, provided by my CFI and [Flight School](http://jcfs.net/)
 - [Piper Warrior Reference](./reference/piperWarrior/): Reference material specific to the Piper Warrior PA-28-161 that will be used in my training, provided by my CFI and [Flight School](http://jcfs.net/)
