@@ -2,32 +2,32 @@
 I'll do my best to keep track of expenses here. This will be a living document.
 |Total Estimated	|Total Actual	|
 |-------------------|---------------|
-|$14810.68			|$9628.71		|
+|$14810.68			|$10362.84		|
 
 ## Flight School Expenses - [Jefferson City Flying Service][L0]
 With this section, there will be a few differences in estimated expense and actual expense, depending on differences in approaches.
 |*Estimated* 				|           |           |              	| *Actual Expense*  |           |              	|						|
 |:--------------------------|----------:|----------:|--------------:|------------------:|----------:|--------------:|-----------------------|
 |**Item**  					|**Price** 	|**Units** 	|**Extended** 	|**Price**			|**Units**	| **Extended**	|**Notes**				|
-|55hrs Piper PA-28 Warrior	|$138.00	|55			|$7590.00		|$138.00			|37.9		|$5230.20		|						|
-|35hrs Flight Instruction	|$56.00		|35			|$1960.00		|$56.00				|35.3		|$1976.80		|						|
-|30hrs Ground Instruction	|$56.00		|30			|$1680.00		|$56.00				|13.4		|$750.40		|						|
+|55hrs Piper PA-28 Warrior	|$138.00	|55			|$7590.00		|$138.00			|41.3		|$5699.40		|						|
+|35hrs Flight Instruction	|$56.00		|35			|$1960.00		|$56.00				|37.5		|$2100.00		|						|
+|30hrs Ground Instruction	|$56.00		|30			|$1680.00		|$56.00				|15.2		|$851.20		|						|
 |Cessna Private Pilot Kit	|$384.00	|1 			|$384.00		|$0.00				|0			|$0.00			|Replaced with Sporty's |
-|Tax						|			|			|				|					|			|$445.47		|						|
-|**Total**					|			|			|$11614.00		|					|			|$8402.87		|						|
+|Tax						|			|			|				|					|			|$486.40		|						|
+|**Total**					|			|			|$11614.00		|					|			|$9137.00		|						|
 
 ## Other Training Fees
 |**Item**  					|**Estimated Expense** 	|**Actual Expense** 	|**Notes**				|
 |:--------------------------|----------------------:|----------------------:|-----------------------|
 |Sporty's PPL + IR Course	|$399.00				|$399.00				|						|
-|Written Test Fee			|$150.00				|$175.00				|						|
+|Written Test Fee			|$150.00				|$175.00				|Passed with 97%		|
 |Final Flight Test Fee		|$600.00				|						|						|
 |**Total**					|$1149.00				|$574.00				|						|
 
 ## Medical Fees
 |**Item**  					|**Estimated Expense** 	|**Units** 	|**Actual Expenses**	|**Notes**				|
 |:--------------------------|----------------------:|----------:|----------------------:|-----------------------|
-|3rd Class Medical Exam		|$138.00				|1			|$138.00				|						|
+|3rd Class Medical Exam		|$138.00				|1			|$138.00				|No issues				|
 |**Total**					|$138.00				|			|$138.00				|						|
 
 ## Recurring Fees
