@@ -1,11 +1,13 @@
 {
 	"cSpell.words": [
+		"CFI",
 		"KVER",
 		"METAR",
-		"KFTT",
-		"KJEF",
-		"KMYJ",
 		"foreflight",
+		"jcfs",
+		"kftt",
+		"kjef",
+		"rnav",
 		"tracklog"
 	]
 }
