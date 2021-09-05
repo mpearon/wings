@@ -58,6 +58,7 @@ Unfortunately, (due to poor forecasts, scheduling conflicts on my CFI's side, th
 - [X] [Lesson 28](./lessonRecaps/2021-08-16.md): Pattern Entry/Exit Procedures, Non-towered Operations
 - [X] [Lesson 29](./lessonRecaps/2021-08-18.md): Pattern Entry/Exit Procedures, Non-towered Operations
 - [X] [Lesson 30](./lessonRecaps/2021-08-19.md): Pattern Entry/Exit Procedures, Soft-field
+- [X] [Lesson 31](./lessonRecaps/2021-08-24.md): Dual Cross Country
 ## Reference Materials
 - [Briefings](./reference/briefings/): Standard flight briefings, provided by my CFI and [Flight School](http://jcfs.net/)
 - [Piper Warrior Reference](./reference/piperWarrior/): Reference material specific to the Piper Warrior PA-28-161 that will be used in my training, provided by my CFI and [Flight School](http://jcfs.net/)
