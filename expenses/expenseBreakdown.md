@@ -59,7 +59,7 @@ This section will contain items that I think I will need throughout my aviation 
 |**Total**					|$1858.64					|$527.85				|					|
 
 
-[L0]: https://jcfs.com
+[L0]: https://jcfs.net
 [L1]: https://mypilotstore.com/MyPilotStore/sep/13591
 [L2]: https://foreflight.com/support/buying-guide/
 [L3]: https://www.mypilotstore.com/mypilotstore/sep/3332
